@@ -5,6 +5,9 @@
 ## ✔️ Tecnologias utilizadas
 
 - ``ReactJS``
+
+## 📕 Bibliotecas
+
 - ``Styled-components``
 
 ## ▶ Executar 
